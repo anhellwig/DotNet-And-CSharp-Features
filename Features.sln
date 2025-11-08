@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMembers", "CSharp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameofUnboundGenericTypes", "CSharp\CS14\Nameof unbound generic types\NameofUnboundGenericTypes.csproj", "{48026DFD-AA02-469E-8A84-90C7AFAC3A13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitSpanConversions", "CSharp\CS14\Implicit span conversions\ImplicitSpanConversions.csproj", "{F91DC92E-F462-4439-9183-AFC138F734FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{48026DFD-AA02-469E-8A84-90C7AFAC3A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48026DFD-AA02-469E-8A84-90C7AFAC3A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48026DFD-AA02-469E-8A84-90C7AFAC3A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91DC92E-F462-4439-9183-AFC138F734FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91DC92E-F462-4439-9183-AFC138F734FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91DC92E-F462-4439-9183-AFC138F734FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91DC92E-F462-4439-9183-AFC138F734FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{CDB8C6A2-B802-4A18-B603-76FBF8B6712C} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 		{48026DFD-AA02-469E-8A84-90C7AFAC3A13} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
+		{F91DC92E-F462-4439-9183-AFC138F734FE} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
