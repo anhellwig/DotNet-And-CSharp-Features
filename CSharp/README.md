@@ -6,3 +6,7 @@ Each folder contains examples of features which were introduced in the respectiv
 ## Further Information
 
 * [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* [The C# Player's Guide](https://csharpplayersguide.com/)
+* [Head First C#](https://www.oreilly.com/library/view/head-first-c/9781491976692/)
+* [C# 12 in a Nutshell](https://www.oreilly.com/library/view/c-12-in/9781098147433/)
+* [C# in Depth](https://csharpindepth.com/)
