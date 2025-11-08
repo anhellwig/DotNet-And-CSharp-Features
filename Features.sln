@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalAssignment",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldKeyword", "CSharp\CS14\Field keyword\FieldKeyword.csproj", "{CDB8C6A2-B802-4A18-B603-76FBF8B6712C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMembers", "CSharp\CS14\Extension members\ExtensionMembers.csproj", "{C631ED66-BBD1-4F5B-BC7E-525343BB20F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{CDB8C6A2-B802-4A18-B603-76FBF8B6712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDB8C6A2-B802-4A18-B603-76FBF8B6712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDB8C6A2-B802-4A18-B603-76FBF8B6712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{E15E2386-67FA-4FF7-AA60-5E09CE7F74DA} = {E758FA0B-CCDC-4E8F-A7E7-7D2913ED2DAF}
 		{70DA5637-4A69-442F-A67B-259ECB406B21} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 		{CDB8C6A2-B802-4A18-B603-76FBF8B6712C} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
+		{C631ED66-BBD1-4F5B-BC7E-525343BB20F3} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
