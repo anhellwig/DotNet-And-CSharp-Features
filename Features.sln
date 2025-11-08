@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.0.11201.2 d18.0
+VisualStudioVersion = 18.0.11201.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{E758FA0B-CCDC-4E8F-A7E7-7D2913ED2DAF}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,12 +13,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# 14", "C# 14", "{E15E2386
 		CSharp\CS14\README.md = CSharp\CS14\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalAssignment", "CSharp\CS14\Null-conditional assignment\NullConditionalAssignment.csproj", "{70DA5637-4A69-442F-A67B-259ECB406B21}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DA5637-4A69-442F-A67B-259ECB406B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DA5637-4A69-442F-A67B-259ECB406B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DA5637-4A69-442F-A67B-259ECB406B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DA5637-4A69-442F-A67B-259ECB406B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E15E2386-67FA-4FF7-AA60-5E09CE7F74DA} = {E758FA0B-CCDC-4E8F-A7E7-7D2913ED2DAF}
+		{70DA5637-4A69-442F-A67B-259ECB406B21} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
