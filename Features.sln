@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDefinedCompoundAssignme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaParametersWithModifiers", "CSharp\CS14\Lambda parameters with modifiers\LambdaParametersWithModifiers.csproj", "{3A489713-A2E5-4535-8661-8367B63B879D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMembers", "CSharp\CS14\Partial members\PartialMembers.csproj", "{390BA5D7-A909-4B08-A22C-264C07C1B5F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{3A489713-A2E5-4535-8661-8367B63B879D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A489713-A2E5-4535-8661-8367B63B879D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A489713-A2E5-4535-8661-8367B63B879D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390BA5D7-A909-4B08-A22C-264C07C1B5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390BA5D7-A909-4B08-A22C-264C07C1B5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390BA5D7-A909-4B08-A22C-264C07C1B5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390BA5D7-A909-4B08-A22C-264C07C1B5F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{F91DC92E-F462-4439-9183-AFC138F734FE} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 		{866077E2-511D-47CA-84B8-05471F2097D8} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 		{3A489713-A2E5-4535-8661-8367B63B879D} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
+		{390BA5D7-A909-4B08-A22C-264C07C1B5F5} = {E15E2386-67FA-4FF7-AA60-5E09CE7F74DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
