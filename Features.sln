@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredMembers", "CSharp\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMathSupport", "CSharp\CS11\Generic math support\GenericMathSupport.csproj", "{C5A351D3-CF73-4B75-857D-892D3ACD8729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsignedRightShiftOperator", "CSharp\CS11\Unsigned right-shift operator\UnsignedRightShiftOperator.csproj", "{F2B675E6-5483-44B8-8C43-BCA8498D6809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedUserDefinedOperators", "CSharp\CS11\Checked user-defined operators\CheckedUserDefinedOperators.csproj", "{2235E71F-571B-4619-BD59-CF5F5CEB3150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,6 +130,14 @@ Global
 		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B675E6-5483-44B8-8C43-BCA8498D6809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B675E6-5483-44B8-8C43-BCA8498D6809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B675E6-5483-44B8-8C43-BCA8498D6809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B675E6-5483-44B8-8C43-BCA8498D6809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2235E71F-571B-4619-BD59-CF5F5CEB3150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2235E71F-571B-4619-BD59-CF5F5CEB3150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2235E71F-571B-4619-BD59-CF5F5CEB3150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2235E71F-571B-4619-BD59-CF5F5CEB3150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +162,8 @@ Global
 		{5B98E966-60C0-43BC-97DC-DCDC11B6F503} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{0B080C59-5B60-4B37-9D2F-81C726D2C509} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{C5A351D3-CF73-4B75-857D-892D3ACD8729} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
+		{F2B675E6-5483-44B8-8C43-BCA8498D6809} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
+		{2235E71F-571B-4619-BD59-CF5F5CEB3150} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
