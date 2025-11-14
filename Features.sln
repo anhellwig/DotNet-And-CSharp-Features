@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPatterns", "CSharp\CS11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDefaultStruct", "CSharp\CS11\Auto-default struct\AutoDefaultStruct.csproj", "{A526F4CA-1B5C-4BE4-ACF9-ECDDA7EFE667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpanPatternMatch", "CSharp\CS11\Pattern match Span\SpanPatternMatch.csproj", "{D25BC130-ECEE-E756-EAD4-F715051C9923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +98,10 @@ Global
 		{A526F4CA-1B5C-4BE4-ACF9-ECDDA7EFE667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A526F4CA-1B5C-4BE4-ACF9-ECDDA7EFE667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A526F4CA-1B5C-4BE4-ACF9-ECDDA7EFE667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25BC130-ECEE-E756-EAD4-F715051C9923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25BC130-ECEE-E756-EAD4-F715051C9923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25BC130-ECEE-E756-EAD4-F715051C9923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25BC130-ECEE-E756-EAD4-F715051C9923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +121,7 @@ Global
 		{D58F2B09-629C-47F8-A687-0306B528E4B2} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{BAC2E0F4-171A-413E-A421-A0B9D367F4DB} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{A526F4CA-1B5C-4BE4-ACF9-ECDDA7EFE667} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
+		{D25BC130-ECEE-E756-EAD4-F715051C9923} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
