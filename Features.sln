@@ -63,6 +63,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# 12", "C# 12", "{FAFC8215
 		CSharp\CS12\README.md = CSharp\CS12\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryConstructors", "CSharp\CS12\Primary constructors\PrimaryConstructors.csproj", "{6D4DED51-C7AC-4F98-B447-3BFE72F011D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{E80EA763-4DA0-4BF9-90C5-30A4868B2B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E80EA763-4DA0-4BF9-90C5-30A4868B2B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E80EA763-4DA0-4BF9-90C5-30A4868B2B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{2235E71F-571B-4619-BD59-CF5F5CEB3150} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{E80EA763-4DA0-4BF9-90C5-30A4868B2B0C} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{FAFC8215-75E1-43A0-BD3A-AE25EA36922F} = {E758FA0B-CCDC-4E8F-A7E7-7D2913ED2DAF}
+		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
