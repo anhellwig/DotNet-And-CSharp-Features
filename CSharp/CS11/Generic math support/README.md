@@ -24,3 +24,4 @@ static T Sum<T>(IEnumerable<T> values) where T : System.Numerics.INumber<T>
 
 * [Preview Features in .NET 6 – Generic Math](https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/)
 * [Tutorial: Static virtual members in interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members)
+* [Nick Chapsas: The weirdest C# 11 feature but also the best one](https://www.youtube.com/watch?v=KKo0qJUlXGI)
