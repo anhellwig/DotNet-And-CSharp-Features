@@ -1,7 +1,7 @@
 ﻿# Collection expressions
 
 C# 12 introduces a terse syntax to create common collection values, which works for arrays, Span, interfaces like IEnumerable<T>,
-and types that supports a collection initializer:
+and types that supports a collection initializer.
 
 ## Example
 
