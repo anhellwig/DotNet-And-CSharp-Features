@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLocalTypes", "CSharp\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredMembers", "CSharp\CS11\Required members\RequiredMembers.csproj", "{0B080C59-5B60-4B37-9D2F-81C726D2C509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMathSupport", "CSharp\CS11\Generic math support\GenericMathSupport.csproj", "{C5A351D3-CF73-4B75-857D-892D3ACD8729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,6 +122,10 @@ Global
 		{0B080C59-5B60-4B37-9D2F-81C726D2C509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B080C59-5B60-4B37-9D2F-81C726D2C509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B080C59-5B60-4B37-9D2F-81C726D2C509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A351D3-CF73-4B75-857D-892D3ACD8729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{7FA78686-82AC-4F02-A763-411ABAEDEA91} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{5B98E966-60C0-43BC-97DC-DCDC11B6F503} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 		{0B080C59-5B60-4B37-9D2F-81C726D2C509} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
+		{C5A351D3-CF73-4B75-857D-892D3ACD8729} = {4EB146F2-F247-4979-B2D6-84D03B01C314}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
