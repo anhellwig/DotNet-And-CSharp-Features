@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExpressions", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultLambdaParameters", "CSharp\CS12\Default lambda parameters\DefaultLambdaParameters.csproj", "{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliasAnyType", "CSharp\CS12\Alias any type\AliasAnyType.csproj", "{A507ABE3-7DB5-4763-B828-6112264CF06F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -198,6 +204,7 @@ Global
 		{6D4DED51-C7AC-4F98-B447-3BFE72F011D6} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{D6000759-F430-4390-8C6F-B86288B89653} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
+		{A507ABE3-7DB5-4763-B828-6112264CF06F} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
