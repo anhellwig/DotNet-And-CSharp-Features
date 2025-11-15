@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultLambdaParameters", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliasAnyType", "CSharp\CS12\Alias any type\AliasAnyType.csproj", "{A507ABE3-7DB5-4763-B828-6112264CF06F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineArrays", "CSharp\CS12\Inline arrays\InlineArrays.csproj", "{8986A5CD-A1C6-4D56-8A03-359DF0D6A847}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A507ABE3-7DB5-4763-B828-6112264CF06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -205,6 +211,7 @@ Global
 		{D6000759-F430-4390-8C6F-B86288B89653} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{3CA3E4C8-A9D5-4885-9E34-C5A6B0F3C01C} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{A507ABE3-7DB5-4763-B828-6112264CF06F} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
+		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
