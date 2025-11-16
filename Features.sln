@@ -77,6 +77,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentalAttribute", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefReadonlyParameters", "CSharp\CS12\Ref readonly parameters\RefReadonlyParameters.csproj", "{C2775A4B-DE19-4E67-8178-C3847268F515}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# 13", "C# 13", "{2E06047D-AF16-4961-AE72-5C95F8A8E730}"
+	ProjectSection(SolutionItems) = preProject
+		CSharp\CS13\README.md = CSharp\CS13\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -226,6 +231,7 @@ Global
 		{8986A5CD-A1C6-4D56-8A03-359DF0D6A847} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{E5ED3C3F-D855-4FB3-B75C-7669EF26DFB3} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
 		{C2775A4B-DE19-4E67-8178-C3847268F515} = {FAFC8215-75E1-43A0-BD3A-AE25EA36922F}
+		{2E06047D-AF16-4961-AE72-5C95F8A8E730} = {E758FA0B-CCDC-4E8F-A7E7-7D2913ED2DAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
