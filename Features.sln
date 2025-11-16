@@ -94,6 +94,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMembers", "CSharp\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldKeyword", "CSharp\CS13\Field keyword\FieldKeyword.csproj", "{5C30CB64-A542-47B1-3E69-18322600A38B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadResolutionPriority", "CSharp\CS13\Overload resolution priority\OverloadResolutionPriority.csproj", "{93C85F70-2682-41AF-AA87-5507931D7717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -232,6 +234,10 @@ Global
 		{5C30CB64-A542-47B1-3E69-18322600A38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C30CB64-A542-47B1-3E69-18322600A38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C30CB64-A542-47B1-3E69-18322600A38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C85F70-2682-41AF-AA87-5507931D7717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C85F70-2682-41AF-AA87-5507931D7717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C85F70-2682-41AF-AA87-5507931D7717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C85F70-2682-41AF-AA87-5507931D7717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -274,6 +280,7 @@ Global
 		{68368097-1962-4697-85D2-78EDFCF0EA54} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{2567C495-AFA9-457C-ABF8-40F3B59B620C} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{5C30CB64-A542-47B1-3E69-18322600A38B} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
+		{93C85F70-2682-41AF-AA87-5507931D7717} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
