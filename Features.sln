@@ -90,6 +90,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitIndexAccess", "CSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLockObject", "CSharp\CS13\New lock object\NewLockObject.csproj", "{68368097-1962-4697-85D2-78EDFCF0EA54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMembers", "CSharp\CS13\Partial members\PartialMembers.csproj", "{2567C495-AFA9-457C-ABF8-40F3B59B620C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -220,6 +222,10 @@ Global
 		{68368097-1962-4697-85D2-78EDFCF0EA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68368097-1962-4697-85D2-78EDFCF0EA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68368097-1962-4697-85D2-78EDFCF0EA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2567C495-AFA9-457C-ABF8-40F3B59B620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2567C495-AFA9-457C-ABF8-40F3B59B620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2567C495-AFA9-457C-ABF8-40F3B59B620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2567C495-AFA9-457C-ABF8-40F3B59B620C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -260,6 +266,7 @@ Global
 		{5DCAE801-6E86-4063-84C5-732D085180FD} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{6A55A3F3-DD32-4A5A-AD92-6CEF83EB3887} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{68368097-1962-4697-85D2-78EDFCF0EA54} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
+		{2567C495-AFA9-457C-ABF8-40F3B59B620C} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
