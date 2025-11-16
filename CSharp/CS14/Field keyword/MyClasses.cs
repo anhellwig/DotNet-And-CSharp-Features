@@ -1,7 +1,5 @@
 ﻿using System.ComponentModel;
 
-return 0;
-
 // Previous C# versions
 class PreviousCSharpClass : INotifyPropertyChanged
 {
