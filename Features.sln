@@ -98,6 +98,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadResolutionPriority"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefStructInterfaces", "CSharp\CS13\Ref struct interfaces\RefStructInterfaces.csproj", "{7A1878DB-E57A-4330-A2DC-E1EE53C92435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefUnsafeIteratorsAsync", "CSharp\CS13\Ref and unsafe in iterators and async\RefUnsafeIteratorsAsync.csproj", "{B6496406-BE41-416E-B1ED-6E6B1D90DA78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -244,6 +246,10 @@ Global
 		{7A1878DB-E57A-4330-A2DC-E1EE53C92435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A1878DB-E57A-4330-A2DC-E1EE53C92435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A1878DB-E57A-4330-A2DC-E1EE53C92435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6496406-BE41-416E-B1ED-6E6B1D90DA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6496406-BE41-416E-B1ED-6E6B1D90DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6496406-BE41-416E-B1ED-6E6B1D90DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6496406-BE41-416E-B1ED-6E6B1D90DA78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +294,7 @@ Global
 		{5C30CB64-A542-47B1-3E69-18322600A38B} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{93C85F70-2682-41AF-AA87-5507931D7717} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 		{7A1878DB-E57A-4330-A2DC-E1EE53C92435} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
+		{B6496406-BE41-416E-B1ED-6E6B1D90DA78} = {2E06047D-AF16-4961-AE72-5C95F8A8E730}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F434E4-DDBB-4CA8-9D3F-2CF5A3D8CB2B}
