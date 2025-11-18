@@ -8,5 +8,6 @@ For more detailed explanations and examples, please refer to the individual READ
 
 * [What's new in C# 14](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14)
 * [What's New in C# 14 (.NET Conf 2025)](https://www.youtube.com/watch?v=xy-HzFp0pbA)
+* [Nick Chapsas: What's new in C# 14 & .NET 10](https://www.youtube.com/watch?v=M5BOO35688A)
 * [Ed Andersen: C# 14 in .NET 10 is amazing](https://www.youtube.com/watch?v=RTFdUBKQres)
 * [Nick Chapsas: Big Breaking Changes in .NET 10](https://www.youtube.com/watch?v=tT_i1qAkTFA)
